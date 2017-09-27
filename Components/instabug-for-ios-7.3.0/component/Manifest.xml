@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="instabug-for-ios">
+  <name>Instabug for iOS</name>
+  <publisher>Instabug</publisher>
+  <publisher-url>https://instabug.com/</publisher-url>
+  <version>7.3.0</version>
+  <summary>In-App Feedback and Bug Reporting for Mobile Apps</summary>
+  <samples>
+    <sample id="SampleApp">
+      <name>iOS Sample</name>
+      <summary>iOS Sample</summary>
+    </sample>
+  </samples>
+</component>
